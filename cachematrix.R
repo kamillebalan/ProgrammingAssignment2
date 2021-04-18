@@ -16,7 +16,7 @@ list(set = set, get = get, setInverse = setInverse, getInverse = getInverse)}
 
 
 ## The function above is the returned inverse of the special matrix that is computed by the below function
-## CacheSolve retrieves the inverse from the cache, if the inverse is calculated
+## If the inverse is calculated the CacheSolve retrieves the inverse from the cache
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
