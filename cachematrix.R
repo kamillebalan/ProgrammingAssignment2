@@ -1,6 +1,7 @@
 ## WEEK 3 COURSERA: R PROGRAMMING
 
 ## This functions creates a caches on inverse of the created special matrix
+## 'x' serves as the matrix and 'b' serves as the null
 
 makeCacheMatrix <- function(x = matrix()) {
 
