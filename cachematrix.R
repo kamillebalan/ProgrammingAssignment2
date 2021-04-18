@@ -1,4 +1,4 @@
-## Assignment on R Programming: Week 3 coursera
+## WEEK 3 COURSERA: R PROGRAMMING
 
 ## This functions creates a caches on inverse of the created special matrix
 
